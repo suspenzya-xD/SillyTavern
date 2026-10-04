@@ -1,2 +1,3 @@
-skipContentCheck: true
-enableExtensions: false
+listen: true
+hostWhitelist:
+  enabled: false
