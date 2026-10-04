@@ -1,3 +1,4 @@
 listen: true
+port: 8000
 hostWhitelist:
   enabled: false
