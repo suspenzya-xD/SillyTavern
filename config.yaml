@@ -1,4 +1,5 @@
 listen: true
 port: 8000
+skipContentCheck: true
 hostWhitelist:
   enabled: false
