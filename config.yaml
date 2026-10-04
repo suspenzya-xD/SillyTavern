@@ -2,4 +2,6 @@ listen: true
 port: 8000
 skipContentCheck: true
 hostWhitelist:
-  enabled: false
+  enabled: true
+  hosts:
+    - "sillytavern-cy2x.onrender.com"
