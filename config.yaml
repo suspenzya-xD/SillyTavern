@@ -1,5 +1,7 @@
 listen: true
+listenHeadless: true
 port: 8000
+whitelistMode: false
 skipContentCheck: true
 hostWhitelist:
   enabled: false
