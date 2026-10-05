@@ -2,7 +2,10 @@ listen: true
 listenHeadless: true
 port: 8000
 whitelistMode: false
-skipContentCheck: true
+basicAuthMode: true
+basicAuthUser:
+  username: "suspenzya"
+  password: "050210"
 hostWhitelist:
   enabled: false
   hosts: []
